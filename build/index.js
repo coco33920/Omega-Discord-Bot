@@ -159,7 +159,7 @@ client.on('message', async (message) => {
     }
     else if (command === Commands.team.input) {
         const response = new discord_js_1.RichEmbed()
-            .setTitle("Here are the people who develop the omega project")
+            .setTitle("The wonderful Omega family 💖")
             .setTimestamp(new Date())
             .setURL(config.URL)
             .setAuthor(client.user.tag, client.user.displayAvatarURL, config.URL);
@@ -390,7 +390,6 @@ async function sendImage(message, action, text) {
     }
 }
 async function owoify(message, text) {
-    console.log(text);
     return owoifier.translate(text);
 }
 async function getFact(message) {

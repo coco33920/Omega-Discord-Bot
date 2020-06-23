@@ -234,7 +234,7 @@ client.on('message', async (message: Message) => {
         return;
     } else if (command === Commands.team.input) {
         const response = new RichEmbed()
-            .setTitle("Here are the people who develop the omega project")
+            .setTitle("The wonderful Omega family 💖")
             .setTimestamp(new Date())
             .setURL(config.URL)
             .setAuthor(client.user.tag, client.user.displayAvatarURL, config.URL);
