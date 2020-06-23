@@ -6,14 +6,14 @@
     "DiscordId": "339132422946029569"
   },
   {
-    "name": "Danny Simmons",
+    "name": "Sandra Simmons",
     "Github": "@MixedMatched",
     "role": "developer",
     "DiscordId": "664449002116349971"
   },
   {
     "name": "Joachim Le Fournis",
-    "Github": "redgl0w",
+    "Github": "@redgl0w",
     "role": "developer, discord moderator",
     "DiscordId": "232545925652938752"
   },
@@ -66,6 +66,18 @@
     "DiscordId": "171318796433227776"
   },
   {
+    "name": "N/A",
+    "Github": "N/A",
+    "role": "developer",
+    "DiscordId": "684758469148147745"
+  },
+  {
+    "name": "N/A",
+    "Github": "N/A",
+    "role": "developer",
+    "DiscordId": "683364695033249793"
+  },
+  {
     "name": "Cyprien Méjat",
     "Github": "@A2drien",
     "role": "beta tester, discord moderator",
@@ -88,5 +100,29 @@
     "Github": "@Lalehelry",
     "role": "beta tester",
     "DiscordId": "177332519245578240"
+  },
+  {
+    "name": "Hector Nussbaumer",
+    "Github": "@Hectornuss",
+    "role": "beta tester",
+    "DiscordId": "414714403682910209"
+  },
+  {
+    "name": "N/A",
+    "Github": "N/A",
+    "role": "beta tester",
+    "DiscordId": "228582507765825537"
+  },
+  {
+    "name": "N/A",
+    "Github": "N/A",
+    "role": "beta tester",
+    "DiscordId": "607534211284598785"
+  },
+  {
+    "name": "N/A",
+    "Github": "N/A",
+    "role": "beta tester",
+    "DiscordId": "295123582537695234"
   }
 ]
