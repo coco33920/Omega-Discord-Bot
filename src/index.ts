@@ -325,6 +325,7 @@ client.on('message', async (message: Message) => {
 
         } else if (customCommandMap.has(command)) {
             message.channel.send(customCommandMap.get(command)?.action);
+            return;
         }
 
         /* Guild Commands */
